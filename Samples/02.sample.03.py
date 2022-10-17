@@ -1,6 +1,6 @@
-from winsound import PlaySound
+from winsound
 from  gtts import gTTS
-from PlaySound import playsound
+from playsound import playsound
 import os
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
